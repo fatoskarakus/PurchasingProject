@@ -1,0 +1,1 @@
+{"uuid":"214e2069-6502-4ecd-b91c-da92535b1927","name":"MyAmazonTest","children":["7e53e927-27cd-4894-a4c8-471750e889ef"],"befores":[{"name":"loadConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1671267030156,"stop":1671267030264}],"afters":[],"start":1671267030136,"stop":1671267191223}

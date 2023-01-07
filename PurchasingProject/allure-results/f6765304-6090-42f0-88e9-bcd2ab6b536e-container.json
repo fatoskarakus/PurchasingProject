@@ -1,0 +1,1 @@
+{"uuid":"f6765304-6090-42f0-88e9-bcd2ab6b536e","name":"Tests.AddToCardPageTest","children":["aad84678-593d-4220-89d7-6e7080be5b6a"],"befores":[],"afters":[{"name":"closeDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673082969403,"stop":1673082969403}],"start":1673082616159,"stop":1673083360069}

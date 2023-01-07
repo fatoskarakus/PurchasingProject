@@ -1,0 +1,1 @@
+{"uuid":"db90a9a5-5b08-45fd-a23d-5ad5a553995a","name":"AmazonSalesTest","children":["5c2fa024-db7d-4554-b650-11c6a2a1be4a"],"befores":[{"name":"loadConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673089087103,"stop":1673089087347}],"afters":[],"start":1673089087057,"stop":1673089200492}

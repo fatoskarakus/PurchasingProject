@@ -1,0 +1,1 @@
+{"uuid":"1c63bc78-3348-4178-8b36-ee2166e62c3d","name":"Tests.ProductPageTest","children":["7545b757-cb81-4bbe-8481-8caa54d382be"],"befores":[],"afters":[{"name":"closeDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673082715202,"stop":1673082715202}],"start":1673082616164,"stop":1673083360081}

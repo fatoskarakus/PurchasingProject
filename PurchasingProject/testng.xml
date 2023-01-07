@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonSalesTest">
+    <listeners>
+        <listener class-name="Utility.TestListener"/>
+    </listeners>
+    <test thread-count="8" name="AmazonSalesTest">
+        <!--            <parameter name="browser" value="Chrome"></parameter>-->
+        <classes>
+<!--            <class name="Tests.IndexPageTest"/>-->
+<!--            <class name="Tests.ProductPageTest"/>-->
+<!--            <class name="Tests.ProductDetailPageTest"/>-->
+<!--            <class name="Tests.AddToCardPageTest"/>-->
+<!--            <class name="Tests.LoginPageTest"/>-->
+<!--            <class name="Tests.AdresPageTest"/>-->
+<!--            <class name="Tests.PaymentTest"/>-->
+            <class name="Tests.EndToEndTest"/>
+        </classes>
+    </test>
+</suite>
